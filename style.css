@@ -1,0 +1,136 @@
+
+body {
+    background: #eee;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+h1, h2, h3 {
+    margin: 1em 10% 0.5em;
+    font-family: Montserrat;
+}
+
+dt {
+    font-weight: bold;
+}
+
+p, ul, ol, div.code, pre, dt, dd, table, div.urls {
+    margin: 1em 10%;
+    line-height: 1.5em;
+}
+
+img {
+    display: block;
+    margin: 1em auto;
+    border: 2px solid #9c9fa2;
+}
+
+div.code,
+pre,
+p.code {
+    font-family: monospace;
+    padding: 10px;
+    background: #ddd;
+    overflow: auto;
+    white-space: pre;
+}
+
+blockquote {
+    margin: 1em 10%;
+    line-height: 1.5em;
+    background: #ffd;
+    overflow: auto;
+}
+
+blockquote p,
+li p {
+    margin: 1em;
+}
+
+div.date, div.footer {
+    text-align: right;
+    margin: 30px 10%;
+}
+
+a {
+    color: #8D3E2D;
+}
+
+h1 {
+    color: #475D4B;
+    font-size: 100px;
+    margin: 0.3em 10%;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+h2 {
+    color: #8D3E2D;
+    font-size: 24px;
+}
+
+h3 {
+    color: #D6C03E;
+    font-size: 18px;
+}
+
+li {
+    padding-bottom: 8px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid #8D3E2D;
+    padding: 2px 4px;
+}
+
+caption, div.caption {
+    font-style: italic;
+    text-align: center;
+}
+
+@media screen and (max-width: 720px) {
+
+    h1 {
+        font-size: 50px;
+    }
+
+}
+
+div.note {
+    padding: 10px 0;
+    background: #fe8;
+}
+
+div.section {
+    margin: 10px 0 0;
+    padding: 10px 0;
+    background: #8D3E2D;
+    color: #eee;
+}
+
+div.section + div.section {
+    background: #475d4b;
+}
+
+div.section h2 {
+    margin-top: 0.5em;
+    color: #eee;
+}
+
+div.section a {
+    color: #eee;
+    font-weight: bold;
+}
+
+div.section > a {
+    display: block;
+    margin: 0.5em 10%;
+    text-align: right;
+}
