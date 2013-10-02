@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+
+<title>HTML Overlay example</title>
+
+<link rel="overlay" type="text/overlay" href="footer.html" />
+<link rel="overlay" type="text/overlay" href="menu.html" />
+
+<script type="text/javascript" src="overlay.js"></script>
+
+<style type="text/css">{literal}
+    #menu {
+        float: left;
+        width: 25%;
+    }
+    #content {
+        float: right;
+        width: 70%;
+    }
+    p.footer {
+        font-size: 90%;
+        color: #999;
+    }
+{/literal}</style>
+
+</head>
+
+<body>
+
+<div id="menu">
+    <a href="menu.html">Back to site menu</a>
+</div>
+
+<div id="content">
+    <h2>Example document</h2>
+    <p>Pretend this is a useful document. The HTML contains only the information, the site nav and other "chrome" is added via the overlays.</p>
+    <p>View source to see how it works. The other files are <a href="overlay.js">overlay.js</a>, <a href="menu.html">menu.html</a>, and <a href="footer.html">footer.html</a></p>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris sit amet nunc a justo gravida sodales. Fusce in neque quis mi pulvinar consectetuer. Donec auctor aliquam turpis. Donec sit amet nunc. Maecenas aliquam. Nam egestas vestibulum turpis. Aliquam fermentum enim nec turpis. Donec erat enim, tempor in, venenatis non, tristique sit amet, est. Suspendisse potenti. Ut malesuada blandit est. In arcu quam, sodales eu, varius quis, volutpat nec, dolor. Aliquam erat volutpat. Nam elit dui, auctor at, aliquet nec, commodo eget, diam.</p>
+    <p>Morbi nec eros. Curabitur velit erat, tincidunt sodales, dictum aliquet, gravida non, augue. Nullam nibh libero, pretium sit amet, pharetra a, sagittis vitae, felis. Fusce vitae wisi id augue pharetra sagittis. Ut vel ipsum. Fusce tristique justo non sapien. Integer scelerisque leo vel sem. Proin ultrices, turpis sed bibendum malesuada, urna wisi pretium felis, euismod pretium wisi quam vitae nibh. Proin sodales lacus sed erat. Proin quis neque sed lacus laoreet pellentesque. In eros urna, tempus ut, eleifend quis, laoreet sed, nibh. Sed placerat ipsum ut lacus.</p>
+    <h3>Example document</h3>
+    <p>Suspendisse porta laoreet orci. Suspendisse neque orci, dapibus vel, ultrices sed, vestibulum placerat, ante. Ut gravida massa vitae dolor. Donec quis lectus. Aliquam vel eros vitae felis suscipit malesuada. Sed augue. Quisque nonummy eros a justo. Cras urna. Nullam bibendum tortor in mi. Donec consectetuer tincidunt neque. In hac habitasse platea dictumst. Mauris ullamcorper mi. Vivamus magna arcu, hendrerit sed, sagittis sed, venenatis vel, risus. Vestibulum commodo placerat nulla.</p>
+    <p>Sed at orci. Phasellus egestas nunc ac eros. Etiam fringilla, lorem sed dictum rhoncus, ligula mi accumsan ligula, vel dignissim felis tellus quis lorem. Nunc nibh pede, dignissim quis, rutrum ac, vehicula sit amet, eros. Nullam sed est sit amet tellus iaculis ultricies. Phasellus ac tellus sed augue tempus pretium. Ut vulputate. Nulla augue mi, interdum nec, dictum ut, nonummy vitae, quam. Duis velit urna, volutpat vel, pretium sit amet, sodales non, enim. Mauris bibendum elementum tellus. Pellentesque vel purus. Sed mattis dictum libero.</p>
+    <p>Praesent urna. Mauris nulla ipsum, gravida et, dictum vitae, pretium ut, tortor. Nam leo erat, pretium quis, condimentum a, faucibus at, urna. Integer faucibus consectetuer orci. In hac habitasse platea dictumst. Fusce accumsan eros a felis porta vehicula. Maecenas tempus nonummy tortor. Sed nisl nulla, porta vitae, posuere a, placerat sed, turpis. Cras congue mauris nec libero. Vivamus malesuada. Sed rhoncus, tellus non ultrices ullamcorper, metus leo sagittis urna, condimentum cursus nunc nulla non nisl. Curabitur in justo. Etiam facilisis, leo eget consectetuer mollis, lectus quam facilisis odio, at varius lacus justo vel enim.</p>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+/*
+ * Javascript WYSIWYG HTML control
+ * Version 0.1
+ *
+ * Copyright (c) 2004 Paul James
+ * All rights reserved.
+ *
+ * This software is covered by the BSD License, please find a copy of this
+ * license at http://peej.co.uk/sandbox/wysiwyg/
+ */
+
+body {
+    font-family: arial;
+    background: #fed;
+}
+
+textarea {
+    width: 600px;
+    height: 300px;
+}
+
+.wysiwyg iframe {
+    width: 600px;
+    height: 301px;
+    *height: 308px; /* IE */
+}
+
+h1, h2, h3, p {
+    margin: 5px 0;
+    padding: 0;
+}
+
+input {
+    margin: 10px 0;
+}
+
+div.toolbar {
+    width: 600px;
+    height: 26px;
+    background-color: #ccc;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+div.toolbar a, div.toolbar span {
+    display: block;
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    cursor: pointer;
+    text-indent: -9999px;
+    background-color: #ccc;
+    background-position: center center;
+    border: 1px solid #ccc;
+}
+
+div.toolbar a:hover, div.toolbar span:hover {
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+div.toolbar div.divider {
+    float: left;
+    width: 0;
+    height: 20px;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #333;
+    margin: 2px;
+}
+
+div.toolbar a.toolbarButton0, div.toolbar span.toolbarButton0 { background-image: url(strong.png); }
+div.toolbar a.toolbarButton1, div.toolbar span.toolbarButton1 { background-image: url(em.png); }
+div.toolbar a.toolbarButton2, div.toolbar span.toolbarButton2 { background-image: url(link.png); }
+div.toolbar a.toolbarButton3, div.toolbar span.toolbarButton3 { background-image: url(unlink.png); }
+div.toolbar a.toolbarButton4, div.toolbar span.toolbarButton4 { background-image: url(img.png); }
+div.toolbar a.toolbarButton5, div.toolbar span.toolbarButton5 { background-image: url(hr.png); }
+div.toolbar a.toolbarButton7, div.toolbar span.toolbarButton7 { background-image: url(h1.png); }
+div.toolbar a.toolbarButton8, div.toolbar span.toolbarButton8 { background-image: url(h2.png); }
+div.toolbar a.toolbarButton9, div.toolbar span.toolbarButton9 { background-image: url(h3.png); }
+div.toolbar a.toolbarButton10, div.toolbar span.toolbarButton10 { background-image: url(p.png); }
+div.toolbar a.toolbarButton11, div.toolbar span.toolbarButton11 { background-image: url(pre.png); }
+div.toolbar a.toolbarButton12, div.toolbar span.toolbarButton12 { background-image: url(ul.png); }
+div.toolbar a.toolbarButton13, div.toolbar span.toolbarButton13 { background-image: url(ol.png); }
+
+div.toolbar a.toolbarButton15, div.toolbar span.toolbarButton15 {
+    width: auto;
+    height: 16px;
+    text-indent: 0;
+    color: #000;
+    font-size: 70%;
+    text-decoration: none;
+    padding: 2px;
+}
+
