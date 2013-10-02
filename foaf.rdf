@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:PersonalProfileDocument rdf:about="">
+        <foaf:maker rdf:resource="#me"/>
+        <foaf:primaryTopic rdf:resource="#me"/>
+    </foaf:PersonalProfileDocument>
+    <foaf:Person rdf:ID="me">
+        <foaf:name>Paul James</foaf:name>
+        <foaf:title>Mr</foaf:title>
+        <foaf:givenname>Paul</foaf:givenname>
+        <foaf:family_name>James</foaf:family_name>
+        <foaf:nick>Peej</foaf:nick>
+        <foaf:mbox_sha1sum>5dbf132f54fb581f482c21924f1a136129651127</foaf:mbox_sha1sum>
+        <foaf:homepage rdf:resource="http://www.peej.co.uk/"/>
+        <foaf:workplaceHomepage rdf:resource="http://www.tribalddb.co.uk/"/>
+    </foaf:Person>
+</rdf:RDF>
