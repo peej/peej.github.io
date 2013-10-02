@@ -26,6 +26,10 @@ img {
     border: 2px solid #9c9fa2;
 }
 
+.vcard img {
+    max-width: 60%;
+}
+
 div.code,
 pre,
 p.code {
