@@ -3,79 +3,80 @@ layout: default
 title: Paul James
 ---
 
-<h1>Paul James</h1>
+# Paul James
 
-<h3><a href="mailto:paul at peej.co.uk" rel="noreferrer">paul at peej.co.uk</a></h3>
+<a href="mailto:paul at peej.co.uk" rel="noreferrer">paul at peej.co.uk</a> - [GitHub](http://github.com/peej)
 
-<h2>Objective</h2>
+## Objective
 
-<p>To be an integral part of a system design, development, implementation and support
-team, where I can apply my current skills and expand my knowledge of Internet system
-design and development, new Web technologies within the Open Source arena, in
-a fast-paced and challenging environment, while evangilising the RESTful principles
-of the Web and their importance to businesses and Web software development.</p>
+To be an integral part of a system design, development, implementation and support team, where I can apply my current skills and expand my knowledge of Internet system design and development, new Web technologies within the Open Source arena, in a fast-paced and challenging environment, while evangilising the RESTful principles of the Web and their importance to businesses and Web software development.
 
-<h2>Relevant Skills</h2>
 
-<h3>Programming</h3>
-<p>
-    <a href="http://www.php.net/" title="PHP Hypertext Preprocessor">PHP</a> (2000 - present),
-    <a href="http://www.ecma.ch/ecma1/stand/ecma-262.htm" title="ECMAScript">JavaScript</a> (2000 - present),
-    <a href="http://gatekeeper.research.compaq.com/pub/standards/sql/" title="Standard Query Language">SQL 92</a> (2000 - present),
-    <a href="http://www.ruby-lang.org" title="Ruby">Ruby</a> (Experiment),
-    <a href="http://www.python.org" title="Python">Python</a> (Experiment with Google Appengine),
-    <a href="http://www.w3.org/tr/html4/" title="Hypertext Mark-Up Language">HTML 4</a> (1998 - 2010),
-    <a href="http://www.w3.org/tr/xhtml1/" title="Extensible Hypertext Mark-Up Language">XHTML 1.0</a> (2000 - 2006),
-    <a href="http://www.w3.org/tr/html5/" title="Hypertext Mark-Up Language">HTML 5</a> (2009 - present),
-    <a href="http://www.w3.org/style/css/" title="Cascading Style Sheets">CSS</a> (2000 - present),
-    <a href="http://www.w3.org/xml/" title="Extensible Mark-Up Language">XML</a> (2002 - present),
-    <a href="http://www.w3.org/style/xsl/" title="Extensible Stylesheet Language Transformations">XSLT</a> (2001 and 2007),
-    <a href="http://smarty.php.net/" title="Smarty templating system">Smarty</a> (2003 - present)
-</p>
+## Relevant Skills
 
-<h3>System architectures</h3>
-<p>
-    <a href="http://www.w3.org/http/" title="Hypertext Transfer Protocol">HTTP</a> (1998 - present),
-    <a href="http://rest.blueoxen.net/" title="Representational State Transfer">REST</a> (2002 - present),
-    <a href="http://www.onlamp.com/" title="Linux, Apache, MySQL, PHP">LAMP</a> (2002 - present),
-    <a href="http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" title="Model-view-controller">MVC</a>
-</p>
+### Programming
 
-<h3>Software systems</h3>
-<p>
-    <a href="http://www.mysql.org/">MySQL</a> (2000 - present),
-    <a href="http://www.microsoft.com/sqlserver/">MS SQL Server</a> (2000 - 2002),
-    <a href="http://www.postgresql.org/">PostgreSQL</a> (2003),
-    <a href="http://www.memcached.org/">MemcacheD</a> (2008 - present),
-    <a href="http://redis.io/">Redis</a> (Experiment),
-    <a href="http://httpd.apache.org/">Apache HTTPD</a> (2002 - present),
-    <a href="http://www.cvshome.org/" title="Concurrent Versioning System">CVS</a> (2004 - 2008),
-    <a href="http://subversion.tigris.org/" title="Subversion">SVN</a> (2007 - present),
-    <a href="http://www.git-scm.com/">Git</a> (2008 - present)
-</p>
+* [PHP](http://www.php.net/) (2000 - present)
+    * [Smarty](http://smarty.php.net/ "Smarty templating system") (2003 - present)
+    * [Composer](http://getcomposer.org/) (2013 - present)
+    * [Phpspec](http://phpspec.net/) (2013 - present)
+    * [Behat](http://behat.org/) (2013 - present)
+* [Javascript](http://www.ecma.ch/ecma1/stand/ecma-262.htm) (2000 - present)
+    * [GruntJS](http://gruntjs.com/) (2013 - present)
+* [SQL 92](http://gatekeeper.research.compaq.com/pub/standards/sql/) (2000 - present)
+* [Ruby](http://www.ruby-lang.org) (Experiment)
+* [Python](http://www.python.org/) (Experiment with Google Appengine)
+* [HTML 4](http://www.w3.org/tr/html4/) (1998 - 2010)
+* [HTML 5](http://www.w3.org/tr/html5/ "Hypertext Mark-Up Language") (2009 - present)
+* [CSS](http://www.w3.org/style/css/ "Cascading Style Sheets") (2000 - present)
+    * [SASS](http://sass-lang.com/) (2012 - present)
+* [XML](http://www.w3.org/xml/ "Extensible Mark-Up Language") (2002 - present)
+    * [XSLT](http://www.w3.org/style/xsl/ "Extensible Stylesheet Language Transformations") (2001 and 2007)
+    * [XHTML 1.0](http://www.w3.org/tr/xhtml1/) (2000 - 2006)
 
-<h3>Skills</h3>
-<ul>
-    <li>Object-orientated design and development techniques.</li>
-    <li>Entity relationship modelling and data design.</li>
-    <li>Web standards (HTTP, URI &amp; HTML).</li>
-    <li>Information architecture, usability and accessibility.</li>
-</ul>
+### System architectures
 
-<h2>Experience</h2>
+* [HTTP](http://www.w3.org/http/ "Hypertext Transfer Protocol") (1998 - present)
+* [REST](http://en.wikipedia.org/wiki/Representational_state_transfer "Representational State Transfer") (2002 - present)
+* [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller "Model-view-controller")
 
-<h3>October 2003 - Present : <a href="http://www.tribalddb.co.uk/">Tribal DDB London</a> : Lead Programmer : Full Time</h3>
-<ul>
-    <li>Senior PHP programmer.</li>
-    <li>System architecture design.</li>
-    <li>Systems integration.</li>
-    <li>Web standards consultation and design.</li>
-    <li>Identification of client and user needs.</li>
-    <li>Creative technology development.</li>
-    <li>User interface and interaction design.</li>
-</ul>
-<p>Responsibilities included development of data driven services for client and internal sites
-using PHP/MySQL and building of standards compliant, DDA compliant HTML and CSS code.</p>
+### Software systems
+
+* [Apache HTTPD](http://httpd.apache.org/) (2002 - present)
+* [CVS](http://www.cvshome.org/ "Concurrent Versioning System") (2004 - 2008)
+* [Git](http://www.git-scm.com/) (2008 - present)
+* [MemcacheD](http://www.memcached.org/) (2008 - present)
+* [MySQL](http://www.mysql.org/) (2000 - present)
+* [Nginx](http://nginx.org/) (Experiment)
+* [PostgreSQL](http://www.postgresql.org/) (2003)
+* [Redis](http://redis.io/) (Experiment)
+* [SVN](http://subversion.tigris.org/ "Subversion") (2007 - present)
+* [Ubuntu Linux](http://www.ubuntu.com/) (2008 - present)
+
+### Skills
+
+* Object-orientated design and development techniques.
+* Entity relationship modelling and data design.
+* Web standards (HTTP, URI & HTML).
+* Information architecture, usability and accessibility.
+* Creative problem solving.
+* Behaviour driven development.
+
+
+## Experience
+
+### October 2003 - Present : [Tribal Worldwide London](http://www.tribalworldwide.co.uk/) : Lead Developer : Full Time
+
+* Senior PHP programmer.
+* System architecture design.
+* Systems integration.
+* Web standards consultation and design.
+* Identification of client and user needs.
+* Creative technology development.
+* User interface and interaction design.
+
+Responsibilities included development of data driven services for client and internal sites using PHP/MySQL and building of standards compliant, DDA compliant HTML, CSS and Javascript code.
+
 <dl>
     <dt><a href="http://marmite-gold.fbincludes.com">Marmite Oxford Street Christmas Lights</a></dt>
     <dd>
@@ -83,6 +84,7 @@ using PHP/MySQL and building of standards compliant, DDA compliant HTML and CSS 
         as a part of this Tribal installed a 2.4m LED screen into one of the lights surrounded
         by a santa hat and beard onto which the public could place their face to be part of the
         lights.</p>
+        <img src="gfx/oxford-street.jpg">
         <p>I designed and built the system for capturing users photos and pushing them to the
         screen and capturing an image of the Oxford Street scene from cameras mounted on the street.</p>
     </dd>
@@ -92,13 +94,14 @@ using PHP/MySQL and building of standards compliant, DDA compliant HTML and CSS 
         a new version of the Monopoly board game. We created an online massively multiplayer game
         of Monopoly played upon a Google Maps mashup, allowing players to buy any street in the
         World and earn rent and build buildings upon them.</p>
+        <img src="gfx/monopoly-city-streets.jpg">
         <p>The project involved a complex Javascript application and a highly scalable PHP/MySQL/MemcacheD
         backend that was stretched to over 200 Web servers and 14 database servers so as to handle
         the 1.4 million active players.</p>
     </dd>
     <dt><a href="http://www.guinness.com/">Guinness.com</a></dt>
     <dd>
-        <p>TribalDDB designed and built a new global Guinness.com website for the famous beer brand
+        <p>Tribal designed and built a new global Guinness.com website for the famous beer brand
         and migrated it away from a Microsoft Sharepoint Server setup to a LAMP stack.</p>
         <p>I was responsible for designing a site architecture that would allow individual local
         territories to update and manage their own sections of the site without effecting other territories
@@ -118,14 +121,14 @@ using PHP/MySQL and building of standards compliant, DDA compliant HTML and CSS 
         built and hosted a fully redundant virtual server setup for the final deployment. The project was
         delivered early 2008.</p>
     </dd>
-    <dt><a href="http://www.marmite.com/">Marmite</a></dt>
+    <dt>Marmite.com</dt>
     <dd>
         <p>We designed and built the new look Marmite Web site, using the distinctive love/hate
         theme to create a dual personality site. I was responsible for defining and building HTML page
         templates and CSS that would translate the graphically intense and visually impacting design
         into a standards compilant and accessible Web site.</p>
     </dd>
-    <dt><a href="http://blogs.tribalddb.co.uk/our-work/monopoly-live/">Monopoly Live</a></dt>
+    <dt>Monopoly Live</dt>
     <dd>
         <p>We developed an online game for Hasbro in collaboration with DDB London. We placed GPRS
         enabled GPS devices in 18 London cabs and tracked their movement around the city, turning the
@@ -133,7 +136,7 @@ using PHP/MySQL and building of standards compliant, DDA compliant HTML and CSS 
         processing over 190,000 users data in real time. I worked mainly on the SMS integration and
         the initial HTML/CSS build.</p>
     </dd>
-    <dt><a href="http://blogs.tribalddb.co.uk/our-work/the-guardian/">Guardian Jobs: People Profiler</a></dt>
+    <dt>Guardian Jobs: People Profiler</dt>
     <dd>
         <p>In March of 2006 we developed a Web based personality profiler for a Guardian Jobs
         promotion. I designed the PHP/MySQL backend that collected the user data and processed it
