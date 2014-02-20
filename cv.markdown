@@ -171,20 +171,6 @@ Responsibilities included development of data driven services for client and int
     </dd>
 </dl>
 
-<h3>June 2007 - June 2011 : <a href="http://to.uri.st/">to.uri.st</a> : Core developer : Part Time / Hobby</h3>
-<ul>
-    <li>Lead programmer (Python/Appengine).</li>
-    <li>System architecture design.</li>
-    <li>Web site.</li>
-    <li>Web spider (PHP).</li>
-</ul>
-<p>In 2007 I built and launched the tourist attraction search engine; to.uri.st.</p>
-<p>The site contains information scraped from the Web and contributed by users plotted on a Google
-Map, and works in a wiki style to allow updating of information by anyone. A simple XML and Atom
-based RESTful API allows data to be used by third parties.</p>
-<p>In 2009 I ported the site from a PHP/MySQL codebase to Python and Google Appengine.</p>
-<p><a href="http://github.com/peej/to.uri.st">The code is on Github</a>.</p>
-
 <h3>August 2003 - Present : <a href="http://peej.github.com/phpdoctor">PHPDoctor</a> : Core developer : Open Source Project / Hobby</h3>
 <ul>
     <li>Lead programmer (PHP).</li>
