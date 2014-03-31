@@ -65,7 +65,7 @@ To be an integral part of a system design, development, implementation and suppo
 
 ## Experience
 
-### October 2003 - Present : [Tribal Worldwide London](http://www.tribalworldwide.co.uk/) : Lead Developer : Full Time
+### October 2003 - Present : [Tribal Worldwide London](http://www.tribalworldwide.co.uk/) : Head of LAMP Development : Full Time
 
 * Senior PHP programmer.
 * System architecture design.
@@ -78,6 +78,11 @@ To be an integral part of a system design, development, implementation and suppo
 Responsibilities included development of data driven services for client and internal sites using PHP/MySQL and building of standards compliant, DDA compliant HTML, CSS and Javascript code.
 
 <dl>
+    <dt><a href="http://essocard.com">EssoCard</a></dt>
+    <dd>
+        <p>Tribal London worked in partnership with A&EDDB London to build and deliver the new consumer facing web site for the Exxon EssoCard payment card across 9 markets in Europe. The site was designed and built from the ground up as an adaptive HTML build to scale the site and functionality from desktop to mobile touch devices.</p>
+        <p>I was technical lead and responsble for data capture functionality, content management and multi-lingual support for 11 locales, HTML build, and SalesForce integration.</p>
+    </dd>
     <dt><a href="http://marmite-gold.fbincludes.com">Marmite Oxford Street Christmas Lights</a></dt>
     <dd>
         <p>For Christmas 2012 we promoted Marmite by sponsoring the Oxford Street Christmas Lights,
