@@ -65,7 +65,7 @@ To be an integral part of a system design, development, implementation and suppo
 
 ## Experience
 
-### October 2003 - Present : [Tribal Worldwide London](http://www.tribalworldwide.co.uk/) : Head of LAMP Development : Full Time
+### October 2003 - Present : [Tribal Worldwide London](http://www.tribalworldwide.co.uk/) : Head of PHP Development : Full Time
 
 * Senior PHP programmer.
 * System architecture design.
@@ -75,7 +75,7 @@ To be an integral part of a system design, development, implementation and suppo
 * Creative technology development.
 * User interface and interaction design.
 
-Responsibilities included development of data driven services for client and internal sites using PHP/MySQL and building of standards compliant, DDA compliant HTML, CSS and Javascript code.
+Responsibilities included development of data driven services for client and internal sites using PHP and building of standards compliant, DDA compliant HTML, CSS and Javascript code.
 
 <dl>
     <dt><a href="http://essocard.com">EssoCard</a></dt>
