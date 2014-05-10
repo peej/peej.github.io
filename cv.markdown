@@ -224,24 +224,6 @@ Responsibilities included development of data driven services for client and int
 <p>Features of the web application included database driven product catalogues, customer-generated content, an integrated message forum, cross-referenced news feeds and export functions (for syndication of content). A username/password secured user interface for control of all features, including user administration, demographics and product management.</p>
 <p>It should be noted that due to a lack of second round funding, the company no longer exists this system was never published.</p>
 
-<h3>June 2000 - July 2002 : QMap : Developer and webmaster : Part Time / Hobby</h3>
-<ul>
-    <li>Site design, graphics and HTML.</li>
-    <li>Backend PHP server code and MySQL database design.</li>
-    <li>Site maintenance.</li>
-    <li>MySQL database administration.</li>
-</ul>
-<p>On-line message forum and community web site.</p>
-<p>Responsibilities included design, implementation, testing and maintenance of the QMap web site and web application, including database backup.</p>
-<p>Features of the web application included database driven message forum, and integrated news feed with user feedback. A username/password secured user interface for control of all features, including user and forum administration.</p>
-<p>It should be noted that after 2 years of successful operation the site has been decommissioned.</p>
-
-<h3>Summer 1998 &amp; 1999 : Ricardo Consulting Engineers : Full Time</h3>
-<ul>
-    <li>Major site upgrade from windows 95 to windows NT 4, the upgrade included the configuration and installation of new hardware and windows NT 4 workstation.</li>
-    <li>NT 4 and MS Office application helpdesk and onsite support.</li>
-</ul>
-
 <h2>Education</h2>
 
 <h3>Sept 1997 - July 2000 : University of East Anglia (UEA)</h3>
